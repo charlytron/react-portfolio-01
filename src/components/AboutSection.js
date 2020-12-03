@@ -7,13 +7,10 @@ const AboutSection = () => {
             <div className="description">
                 <div className="title">
                     <div className="hide">
-                        <h2>We Will Make Your Next Ride</h2>
+                        <h2>We'll make Your Next Ride</h2>
                     </div>
                     <div className="hide">
-                        <h2><span>the Best One</span></h2>
-                    </div>
-                    <div className="hide">
-                        <h2>You've <span>Ever</span> Had</h2>
+                        <h2>Your <span>Best</span> One</h2>
                     </div>
                     <div>
                         <p>Contact us with any new or used bike or repair requests
