@@ -1,9 +1,10 @@
-
+// import pages
+import AboutUs from './pages/AboutUs'
 
 function App() {
   return (
     <div className="App">
-      <h1>WSUP</h1>
+      <AboutUs />
     </div>
   );
 }
