@@ -40,7 +40,8 @@ const ServicesSection = () => {
               <img src={teamwork} alt="teamwork" />
               <h3>Teamwork</h3>
             </div>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Master mechanic and owner Ben Leach had worked for the shop's founder, and he 
+              now works with his own staff to make your ride hassle-free.</p>
           </div>
         </div>
       </div>
